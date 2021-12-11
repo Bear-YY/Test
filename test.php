@@ -71,10 +71,6 @@ function countTake($frame){
   }
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 28eb3d57f9d9c9dc72f61703185c876e6c457123
 function checkStrike($frame){
   return $result = ($frame[0] == 10) ? true : false;
 }
