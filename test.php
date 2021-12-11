@@ -71,6 +71,7 @@ function countTake($frame){
   }
 }
 
+
 function checkStrike($frame){
   return $result = ($frame[0] == 10) ? true : false;
 }
